@@ -17,4 +17,6 @@
 
 [8-firstdelete](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete) - Delete the file betty.
 
+[9-firstdirdeletion](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion) - Delete the directory my_first_directory that is in the /tmp directory.
+
 
