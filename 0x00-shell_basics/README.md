@@ -25,4 +25,6 @@
 
 [12-file_type](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/12-file_type) - Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
+[13-symbolic_link](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/13-symbolic_link) - Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+
 
