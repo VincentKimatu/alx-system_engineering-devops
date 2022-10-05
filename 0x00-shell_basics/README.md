@@ -30,4 +30,6 @@ rdeletion](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/m
 
 [14-copy_html](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/14-copy_html) - Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
+[100-lets_move](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/100-lets_move) - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
 
