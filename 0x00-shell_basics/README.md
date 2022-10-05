@@ -13,4 +13,6 @@
 
 [6-firstdirectory](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory) - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 
+[7-movethatfile](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory.
+
 
