@@ -21,4 +21,6 @@
 
 [10-back](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/10-back) - Write a script that changes the working directory to the previous one.
 
+[11-lists](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/11-lists) - Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
 
