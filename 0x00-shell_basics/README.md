@@ -15,4 +15,6 @@
 
 [7-movethatfile](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory.
 
+[8-firstdelete](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete) - Delete the file betty.
+
 
