@@ -9,3 +9,5 @@
 
 [4-listmorefiles](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles) - Display current directory contents, including hidden files (starting with .). Use the long format.
 
+[5-listfilesdigitonly](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly) - Display current directory contents. Long format, with user and group IDs displayed numerically, and hidden files (starting with .)
+
