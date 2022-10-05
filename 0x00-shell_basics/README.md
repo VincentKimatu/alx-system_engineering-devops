@@ -32,4 +32,6 @@ rdeletion](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/m
 
 [100-lets_move](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/100-lets_move) - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
+[101-clean_emacs](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/101-clean_emacs) - Create a script that deletes all files in the current working directory that end with the character ~.
+
 
