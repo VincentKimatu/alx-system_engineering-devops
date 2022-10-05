@@ -19,4 +19,6 @@
 
 [9-firstdirdeletion](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion) - Delete the directory my_first_directory that is in the /tmp directory.
 
+[10-back](https://github.com/VincentKimatu/alx-system_engineering-devops/blob/master/0x00-shell_basics/10-back) - Write a script that changes the working directory to the previous one.
+
 
