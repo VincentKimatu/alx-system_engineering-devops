@@ -12,3 +12,6 @@
 - [0x07-networking_basics](0x07-networking_basics)
 - [0x08-networking_basics_2](0x08-networking_basics_2)
 - [0x09-web_infrastructure_design](0x09-web_infrastructure_design)
+
+- [0x0C-web_server](./0x0C-web_server)
+- [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
