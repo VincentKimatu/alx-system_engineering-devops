@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# Nginx likes port 80
+# Bash script to fix nginx web server
 
-rm /etc/nginx/sites-enabled/default
-ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+apt-get update -y
+apt-get install curl -y
+sed -i "s/listen 8080/listen 80/" /etc/nginx/sites-enabled/default
+sed -i "s/listen \[\:\:\]\:8080/listen \[\:\:\]\:80/" /etc/nginx/sites-enabled/default
 service nginx restart
