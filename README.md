@@ -19,3 +19,4 @@
 - [0x0C-web_server](./0x0C-web_server)
 - [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
 - [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
+- [0x16-api_advanced](./0x16-api_advanced)
