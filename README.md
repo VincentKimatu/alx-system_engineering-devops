@@ -20,3 +20,4 @@
 - [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
 - [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
 - [0x16-api_advanced](./0x16-api_advanced)
+- [0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3)
