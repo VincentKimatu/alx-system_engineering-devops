@@ -15,9 +15,10 @@
 - [0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
 - [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
 - [0x15-api](./0x15-api)
+- [0x16-api_advanced](./0x16-api_advanced)
+- [0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3)
 
+- [0x1A-application_server](./0x1A-application_server)
 - [0x0C-web_server](./0x0C-web_server)
 - [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
 - [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
-- [0x16-api_advanced](./0x16-api_advanced)
-- [0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3)
